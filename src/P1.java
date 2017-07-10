@@ -9,13 +9,19 @@ public static void main(String[] args)
 	
 	System.out.println(obj);
 	
+	
+	
  	 
 }
+
 
 public String toString()
 {
 	String abc = "hi how are you";
-return abc;	
+	String c = "New String";
+	return abc;	
+
+
 	
 }
 
