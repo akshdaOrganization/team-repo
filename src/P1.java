@@ -18,9 +18,6 @@ public static void main(String[] args)
 public String toString()
 {
 	String abc = "hi how are you";
-	String abc = "hi how are you";
-	String c = "New String";
-	String abc = "hi how are you";
 	String c = "New String";
 	String c = "New String";
 	return abc;	
